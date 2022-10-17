@@ -1,0 +1,36 @@
+body {
+  background-color: rgb(172, 205, 237);
+}
+
+
+h1{
+  
+  color: black;
+}
+
+button{
+  padding: 10px;
+  border-radius: 10px;
+  font-size: 20px;
+  background-color: rgb(153, 244, 248);
+  border-color: rgb(104, 156, 245);
+  
+}
+
+h2{
+  padding-bottom: 60px;
+}
+
+ .choices{
+  margin:50px;
+ }
+
+ h3{
+  padding-top: 40px;
+  
+ }
+
+
+ .result{
+  color: rgb(16, 16, 16);
+ }
